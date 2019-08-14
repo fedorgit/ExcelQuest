@@ -1,0 +1,17 @@
+Input: Tier4.xlsx
+-Sheet: Числа
+--A1: 1
+--B2: 2
+--A3: 3
+--D4: 4
+--FI4721: 5
+-Sheet: Строки
+--C3: First
+--A6: Second
+--H9: Third
+--D17: Fourth
+-Sheet: Языки
+--B2: Русский
+--A5: English
+--H9: slovenščina
+--E11: 日本語

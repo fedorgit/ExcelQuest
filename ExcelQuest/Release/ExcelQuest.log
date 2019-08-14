@@ -1,0 +1,9 @@
+﻿  ArchiveService.cpp
+c:\all_vs\excelquest\excelquest\archiveservice.hpp(7): fatal error C1083: Не удается открыть файл включение: zip.h: No such file or directory,
+  main.cpp
+c:\all_vs\excelquest\excelquest\main.cpp(4): fatal error C1083: Не удается открыть файл включение: zip.h: No such file or directory,
+  Sheet.cpp
+  Xml.cpp
+c:\all_vs\excelquest\excelquest\xml.hpp(15): warning C4200: нестандартное расширение: массив нулевого размера в структуре (объединении)
+  c:\all_vs\excelquest\excelquest\xml.hpp(15): note: Этот член будет пропущен конструктором, установленным по умолчанию, или оператором назначения копии или перемещения
+  XmlAttribute.cpp
